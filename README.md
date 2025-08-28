@@ -47,7 +47,6 @@ Contributions are welcome! Feel free to:
 
 ## 📧 Contact & Support
 - **Developer:** ExamPrep Hub  
-- **Support:** *(Add email or contact info here if available)*  
 
 ---
 
